@@ -3,7 +3,8 @@ Step1: Clone the repository
 Step2: cd <repository-name>
 Step3:git checkout -b feature-login
 Step4:git branch (To verify you are in correct branch) (OPTIONAL)
-Step5: Save this code as login.py
+Step5: Do any changes in file like create,delete,edit (or)
+Do this: Save this code as login.py
 def login(username, password):
     # Replace this with actual user data validation logic
     if username == "admin" and password == "password123":
