@@ -1,5 +1,5 @@
 Git download link:" https://git-scm.com/downloads/win "
-Step1: Clone the repository
+Step1: git clone <repository link
 Step2: cd <repository-name>
 Step3:git checkout -b feature-login
 Step4:git branch (To verify you are in correct branch) (OPTIONAL)
